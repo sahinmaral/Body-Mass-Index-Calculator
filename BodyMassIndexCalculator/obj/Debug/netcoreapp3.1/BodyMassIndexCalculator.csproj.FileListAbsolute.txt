@@ -1,0 +1,32 @@
+C:\Users\sahin\Desktop\TotalFiles\Github Projects\Body-Mass-Index-Calculator\BodyMassIndexCalculator\bin\Debug\netcoreapp3.1\BodyMassIndexCalculator.exe
+C:\Users\sahin\Desktop\TotalFiles\Github Projects\Body-Mass-Index-Calculator\BodyMassIndexCalculator\bin\Debug\netcoreapp3.1\BodyMassIndexCalculator.deps.json
+C:\Users\sahin\Desktop\TotalFiles\Github Projects\Body-Mass-Index-Calculator\BodyMassIndexCalculator\bin\Debug\netcoreapp3.1\BodyMassIndexCalculator.runtimeconfig.json
+C:\Users\sahin\Desktop\TotalFiles\Github Projects\Body-Mass-Index-Calculator\BodyMassIndexCalculator\bin\Debug\netcoreapp3.1\BodyMassIndexCalculator.runtimeconfig.dev.json
+C:\Users\sahin\Desktop\TotalFiles\Github Projects\Body-Mass-Index-Calculator\BodyMassIndexCalculator\bin\Debug\netcoreapp3.1\BodyMassIndexCalculator.dll
+C:\Users\sahin\Desktop\TotalFiles\Github Projects\Body-Mass-Index-Calculator\BodyMassIndexCalculator\bin\Debug\netcoreapp3.1\BodyMassIndexCalculator.pdb
+C:\Users\sahin\Desktop\TotalFiles\Github Projects\Body-Mass-Index-Calculator\BodyMassIndexCalculator\obj\Debug\netcoreapp3.1\BodyMassIndexCalculator.csprojAssemblyReference.cache
+C:\Users\sahin\Desktop\TotalFiles\Github Projects\Body-Mass-Index-Calculator\BodyMassIndexCalculator\obj\Debug\netcoreapp3.1\BodyMassIndexCalculator.Homepage.resources
+C:\Users\sahin\Desktop\TotalFiles\Github Projects\Body-Mass-Index-Calculator\BodyMassIndexCalculator\obj\Debug\netcoreapp3.1\BodyMassIndexCalculator.csproj.GenerateResource.cache
+C:\Users\sahin\Desktop\TotalFiles\Github Projects\Body-Mass-Index-Calculator\BodyMassIndexCalculator\obj\Debug\netcoreapp3.1\BodyMassIndexCalculator.AssemblyInfoInputs.cache
+C:\Users\sahin\Desktop\TotalFiles\Github Projects\Body-Mass-Index-Calculator\BodyMassIndexCalculator\obj\Debug\netcoreapp3.1\BodyMassIndexCalculator.AssemblyInfo.cs
+C:\Users\sahin\Desktop\TotalFiles\Github Projects\Body-Mass-Index-Calculator\BodyMassIndexCalculator\obj\Debug\netcoreapp3.1\BodyMassIndexCalculator.csproj.CoreCompileInputs.cache
+C:\Users\sahin\Desktop\TotalFiles\Github Projects\Body-Mass-Index-Calculator\BodyMassIndexCalculator\obj\Debug\netcoreapp3.1\BodyMassIndexCalculator.dll
+C:\Users\sahin\Desktop\TotalFiles\Github Projects\Body-Mass-Index-Calculator\BodyMassIndexCalculator\obj\Debug\netcoreapp3.1\BodyMassIndexCalculator.pdb
+C:\Users\sahin\Desktop\TotalFiles\Github Projects\Body-Mass-Index-Calculator\BodyMassIndexCalculator\obj\Debug\netcoreapp3.1\BodyMassIndexCalculator.genruntimeconfig.cache
+C:\Users\sahin\Desktop\Body-Mass-Index-Calculator\BodyMassIndexCalculator\bin\Debug\netcoreapp3.1\BodyMassIndexCalculator.exe
+C:\Users\sahin\Desktop\Body-Mass-Index-Calculator\BodyMassIndexCalculator\bin\Debug\netcoreapp3.1\BodyMassIndexCalculator.deps.json
+C:\Users\sahin\Desktop\Body-Mass-Index-Calculator\BodyMassIndexCalculator\bin\Debug\netcoreapp3.1\BodyMassIndexCalculator.runtimeconfig.json
+C:\Users\sahin\Desktop\Body-Mass-Index-Calculator\BodyMassIndexCalculator\bin\Debug\netcoreapp3.1\BodyMassIndexCalculator.runtimeconfig.dev.json
+C:\Users\sahin\Desktop\Body-Mass-Index-Calculator\BodyMassIndexCalculator\bin\Debug\netcoreapp3.1\BodyMassIndexCalculator.dll
+C:\Users\sahin\Desktop\Body-Mass-Index-Calculator\BodyMassIndexCalculator\bin\Debug\netcoreapp3.1\BodyMassIndexCalculator.pdb
+C:\Users\sahin\Desktop\Body-Mass-Index-Calculator\BodyMassIndexCalculator\obj\Debug\netcoreapp3.1\BodyMassIndexCalculator.csprojAssemblyReference.cache
+C:\Users\sahin\Desktop\Body-Mass-Index-Calculator\BodyMassIndexCalculator\obj\Debug\netcoreapp3.1\BodyMassIndexCalculator.Homepage.resources
+C:\Users\sahin\Desktop\Body-Mass-Index-Calculator\BodyMassIndexCalculator\obj\Debug\netcoreapp3.1\BodyMassIndexCalculator.Resources.resources
+C:\Users\sahin\Desktop\Body-Mass-Index-Calculator\BodyMassIndexCalculator\obj\Debug\netcoreapp3.1\BodyMassIndexCalculator.csproj.GenerateResource.cache
+C:\Users\sahin\Desktop\Body-Mass-Index-Calculator\BodyMassIndexCalculator\obj\Debug\netcoreapp3.1\BodyMassIndexCalculator.AssemblyInfoInputs.cache
+C:\Users\sahin\Desktop\Body-Mass-Index-Calculator\BodyMassIndexCalculator\obj\Debug\netcoreapp3.1\BodyMassIndexCalculator.AssemblyInfo.cs
+C:\Users\sahin\Desktop\Body-Mass-Index-Calculator\BodyMassIndexCalculator\obj\Debug\netcoreapp3.1\BodyMassIndexCalculator.csproj.CoreCompileInputs.cache
+C:\Users\sahin\Desktop\Body-Mass-Index-Calculator\BodyMassIndexCalculator\obj\Debug\netcoreapp3.1\BodyMassIndexCalculator.dll
+C:\Users\sahin\Desktop\Body-Mass-Index-Calculator\BodyMassIndexCalculator\obj\Debug\netcoreapp3.1\BodyMassIndexCalculator.pdb
+C:\Users\sahin\Desktop\Body-Mass-Index-Calculator\BodyMassIndexCalculator\obj\Debug\netcoreapp3.1\BodyMassIndexCalculator.genruntimeconfig.cache
+C:\Users\sahin\Desktop\TotalFiles\Github Projects\Body-Mass-Index-Calculator\BodyMassIndexCalculator\obj\Debug\netcoreapp3.1\BodyMassIndexCalculator.Resources.resources
